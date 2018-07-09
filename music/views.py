@@ -5,7 +5,7 @@ from django.http import HttpResponse
 
 
 def index(request):
-     return HttpResponse("<h2> Checking .... !! </h2>")
+     return HttpResponse("<h2> Checking .... .........!! </h2>")
 
 
 def details(request, album_id):
